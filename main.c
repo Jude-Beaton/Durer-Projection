@@ -2,8 +2,8 @@
 #include <time.h>
 #include <math.h>
 #include <SDL2/SDL.h>
-#include "../mathslibrary/matrix.h"
-#include "../mathslibrary/vec.h"
+#include "mathslibrary/matrix.h"
+#include "mathslibrary/vec.h"
 
 const int WIDTH = 800, HEIGHT = 800;
 

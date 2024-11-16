@@ -1,4 +1,5 @@
 # Durer Projection in C with custom matrix and vector maths libraries
+![durer](https://github.com/user-attachments/assets/bf53efbf-9dde-4dc0-94d2-fe3f0420172c)
 ## Aims of the project:
 I want to understand how game graphics are created from scratch, this project is the very beginning of representing 3d graphics the end goal is to be able to represent 3d objects on a 2d screen in C using SDL. I hope to extend this project to the point of making my own game engine entirely in C capable of rendering 3d graphics.
 
